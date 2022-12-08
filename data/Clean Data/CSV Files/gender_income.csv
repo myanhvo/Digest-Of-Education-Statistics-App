@@ -1,0 +1,67 @@
+"Year","Education","Male","Female"
+1995,"Less than High School",29960,21980
+1995,"High School",40620,29360
+1995,"College - No degree",44020,33950
+1995,"Associate",45080,40590
+1995,"Bachelor",59410,46940
+1995,"Master",74850,58750
+2000,"Less than High School",29960,22480
+2000,"High School",43400,32530
+2000,"College - No degree",47820,37520
+2000,"Associate",52600,39070
+2000,"Bachelor",67380,52440
+2000,"Master",82540,62530
+2005,"Less than High School",29070,22260
+2005,"High School",39610,31590
+2005,"College - No degree",46250,37010
+2005,"Associate",52520,38860
+2005,"Bachelor",59600,49020
+2005,"Master",76640,62160
+2010,"Less than High School",28480,21000
+2010,"High School",38990,29640
+2010,"College - No degree",44940,34350
+2010,"Associate",47360,41150
+2010,"Bachelor",59040,47480
+2010,"Master",76390,59150
+2014,"Less than High School",27330,21810
+2014,"High School",36050,27330
+2014,"College - No degree",39280,30600
+2014,"Associate",44040,32440
+2014,"Bachelor",59860,49190
+2014,"Master",70750,59640
+2015,"Less than High School",28620,21810
+2015,"High School",37110,29480
+2015,"College - No degree",42540,32740
+2015,"Associate",46790,34540
+2015,"Bachelor",60020,48890
+2015,"Master",75930,62880
+2016,"Less than High School",30800,23620
+2016,"High School",37470,30190
+2016,"College - No degree",40960,32320
+2016,"Associate",46370,34370
+2016,"Bachelor",61430,48520
+2016,"Master",77250,62210
+2017,"Less than High School",30620,24820
+2017,"High School",36910,28480
+2017,"College - No degree",42220,31680
+2017,"Associate",47340,34200
+2017,"Bachelor",63010,49470
+2017,"Master",79160,63070
+2018,"Less than High School",30920,22650
+2018,"High School",40080,29870
+2018,"College - No degree",41160,32060
+2018,"Associate",49370,35060
+2018,"Bachelor",61840,51530
+2018,"Master",81710,61040
+2019,"Less than High School",30070,25650
+2019,"High School",40410,30160
+2019,"College - No degree",42980,35220
+2019,"Associate",48980,35210
+2019,"Bachelor",64740,50610
+2019,"Master",85040,61680
+2020,"Less than High School",32400,26820
+2020,"High School",39960,31900
+2020,"College - No degree",44770,34940
+2020,"Associate",50000,38180
+2020,"Bachelor",64730,53750
+2020,"Master",77770,64640
